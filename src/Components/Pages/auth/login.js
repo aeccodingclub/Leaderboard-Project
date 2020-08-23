@@ -4,7 +4,7 @@ import { Container, Card, Form, Button } from 'react-bootstrap';
 const Login = () => {
 
     return (
-        <div className={styles.main}>
+        <div>
             <Container>
                 <Card className={styles.card}>
                     <Card.Body>
