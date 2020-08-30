@@ -1,7 +1,6 @@
 import React from "react";
 import { Col, Table } from "react-bootstrap";
 const leaderboard = (props) => {
-  console.log(props.list.data[0]);
   return (
     <Col xs={12} md={8}>
       <Table striped bordered hover variant="dark">

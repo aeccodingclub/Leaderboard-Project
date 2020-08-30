@@ -25,7 +25,7 @@ const navbar = () => {
               />
               <InputGroup.Append>
                 <InputGroup.Text id="basic-addon2">
-                  <i className="fas fa-search"></i>
+                  <i className="fas fa-search" type="button"></i>
                 </InputGroup.Text>
               </InputGroup.Append>
             </InputGroup>
